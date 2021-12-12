@@ -114,7 +114,7 @@ const courses = [
     university: 'MIT',
   },
   {
-    title: 'Data Technologies for Quant Finance',
+    title: 'Accounting',
     number: '15.501',
     link: 'https://mitsloan.mit.edu/faculty/academic-groups/accounting/courses-programs',
     university: 'MIT',
