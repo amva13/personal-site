@@ -3,13 +3,13 @@ import { Link } from 'react-router-dom';
 
 import Main from '../layouts/Main';
 
-import Cell from '../components/Projects/Cell';
-import data from '../data/projects';
+// import Cell from '../components/Projects/Cell';
+// import data from '../data/projects';
 
 const Projects = () => (
   <Main
     title="Projects"
-    description="Learn about Michael D'Angelo's projects."
+    description="Learn about Alejandro Velez's projects."
   >
     <article className="post" id="projects">
       <header>
@@ -18,12 +18,12 @@ const Projects = () => (
           <p>A selection of projects that I&apos;m not too ashamed of</p>
         </div>
       </header>
-      {data.map((project) => (
+      {/* {data.map((project) => (
         <Cell
           data={project}
           key={project.title}
         />
-      ))}
+      ))} */}
     </article>
   </Main>
 );
