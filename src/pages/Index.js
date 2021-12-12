@@ -15,6 +15,7 @@ const Index = () => (
           <p>
             A beautiful, responsive, statically-generated,
             react application written with modern Javascript.
+            Powered by AWS and GoDaddy.
             ** Work In Progress **
           </p>
         </div>
@@ -31,7 +32,7 @@ const Index = () => (
         Welcome to my website. Currently under development.
         Stay tuned for updates !
       </p>
-      <p> Source available <a href="http://www.alejandrovelez.io">here</a>.</p>
+      <p> Source available <a href="https://github.com/amva13/personal-site">here</a>.</p>
     </article>
   </Main>
 );
