@@ -31,7 +31,7 @@ const data = [
     icon: faLinkedinIn,
   },
   {
-    link: 'https://angel.co/',
+    link: 'https://angel.co/u/alejandro-velez-6/',
     label: 'Angel List',
     icon: faAngellist,
   },
