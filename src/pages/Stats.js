@@ -1,9 +1,9 @@
 import React from 'react';
-// import { Link } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 
 import Main from '../layouts/Main';
 
-// import Personal from '../components/Stats/Personal';
+import Personal from '../components/Stats/Personal';
 // import Site from '../components/Stats/Site';
 
 const Stats = () => (
@@ -11,15 +11,15 @@ const Stats = () => (
     title="Stats"
     description="Some statistics about Alejandro Velez and alejandrovelez.io"
   >
-    {/* <article className="post" id="stats">
+    <article className="post" id="stats">
       <header>
         <div className="title">
           <h2 data-testid="heading"><Link to="/stats">Stats</Link></h2>
         </div>
       </header>
       <Personal />
-      <Site />
-    </article> */}
+      {/* <Site /> */}
+    </article>
   </Main>
 );
 

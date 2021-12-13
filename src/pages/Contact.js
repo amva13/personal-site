@@ -1,16 +1,16 @@
 import React from 'react';
-// import { Link } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 
 import Main from '../layouts/Main';
-// import EmailLink from '../components/Contact/EmailLink';
-// import ContactIcons from '../components/Contact/ContactIcons';
+import EmailLink from '../components/Contact/EmailLink';
+import ContactIcons from '../components/Contact/ContactIcons';
 
 const Contact = () => (
   <Main
     title="Contact"
-    description="Contact Alejandro Velez via email @ alejandro.velez.arce@gmail.com"
+    description="Contact Alejandro Velez via email @ alejandro@alejandrovelez.io"
   >
-    {/* <article className="post" id="contact">
+    <article className="post" id="contact">
       <header>
         <div className="title">
           <h2 data-testid="heading"><Link to="/contact">Contact</Link></h2>
@@ -21,7 +21,7 @@ const Contact = () => (
         <EmailLink />
       </div>
       <ContactIcons />
-    </article> */}
+    </article>
   </Main>
 );
 

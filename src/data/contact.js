@@ -46,7 +46,7 @@ const data = [
     icon: faPinterest,
   },
   {
-    link: 'mailto:alejandro.velez.arce@gmail.com',
+    link: 'mailto:alejandro@alejandrovelez.io',
     label: 'Email',
     icon: faEnvelope,
   },

@@ -29,8 +29,7 @@ const Index = () => (
         or <Link to="/contact">contact</Link> me.
       </p> */}
       <p>
-        Welcome to my website. Currently under development.
-        Stay tuned for updates !
+        Welcome to my website. Learn more <a href="/about">about me</a> My <a href="/resume">career</a> or my <a href="/projects">projects</a>.
       </p>
       <p> Source available <a href="https://github.com/amva13/personal-site">here</a>.</p>
     </article>
