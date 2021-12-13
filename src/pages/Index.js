@@ -16,7 +16,6 @@ const Index = () => (
             A beautiful, responsive, statically-generated,
             react application written with modern Javascript.
             Powered by AWS and GoDaddy.
-            ** Work In Progress **
           </p>
         </div>
       </header>
@@ -29,7 +28,7 @@ const Index = () => (
         or <Link to="/contact">contact</Link> me.
       </p> */}
       <p>
-        Welcome to my website. Learn more <a href="/about">about me</a> My <a href="/resume">career</a> or my <a href="/projects">projects</a>.
+        Welcome to my website. Learn more <a href="/about">about me</a> my <a href="/resume">career</a> or my <a href="/projects">projects</a>.
       </p>
       <p> Source available <a href="https://github.com/amva13/personal-site">here</a>.</p>
     </article>
