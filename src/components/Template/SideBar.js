@@ -21,7 +21,7 @@ const SideBar = () => (
       <h2>About</h2>
       <p>
         Hi, I&apos;m Alejandro. Traveler, Athlete, Improv practitioner,
-        Dog lover, Software Engineer.
+        Dog lover, Software Engineer. Currently working on self-driving cars at <a href="https://getcruise.com/">Cruise</a>.
       </p>
       <ul className="actions">
         <li>
