@@ -21,7 +21,8 @@ const SideBar = () => (
       <h2>About</h2>
       <p>
         Hi, I&apos;m Alejandro. Traveler, Athlete, Improv practitioner,
-        Dog lover, Software Engineer. Currently working on self-driving cars at <a href="https://getcruise.com/">Cruise</a>.
+        Dog lover, Software Engineer, Business Owner and Entrepreneur. Currently working on self-driving cars at <a href="https://getcruise.com/">Cruise</a>.
+        Business Owner and President of Alejandro Velez Software Solutions LLC.
       </p>
       <ul className="actions">
         <li>
