@@ -1,5 +1,14 @@
 const positions = [
   {
+    company: 'Cruise',
+    position: 'Sr SWE in MLI',
+    link: 'https://getcruise.com/',
+    daterange: '2021 - Present',
+    points: [
+      'Incoming Senior Software Engineer in Machine Learning Infrastructure.',
+    ],
+  },
+  {
     company: 'Pinterest',
     position: 'SWE in MLI',
     link: 'https://medium.com/pinterest-engineering/pinalyticsdb-a-time-series-database-on-top-of-hbase-946f236bb29a',
