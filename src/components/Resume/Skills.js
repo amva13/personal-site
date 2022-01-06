@@ -73,7 +73,7 @@ class Skills extends Component {
         <div className="link-to" id="skills" />
         <div className="title">
           <h3>Skills</h3>
-          <p>Note: See my <a href="https://www.linkedin.com/in/avelez1/"> LinkedIn </a>  for more details.</p>
+          {/* <p>Note: See my <a href="https://www.linkedin.com/in/avelez1/"> LinkedIn </a>  for more details.</p> */}
         </div>
         <div className="skill-button-container">
           {this.getButtons()}

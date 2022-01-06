@@ -22,7 +22,7 @@ const SideBar = () => (
       <p>
         Hi, I&apos;m Alejandro. Traveler, Athlete, Improv practitioner,
         Dog lover, Software Engineer, Business Owner and Entrepreneur. Currently working on self-driving cars at <a href="https://getcruise.com/">Cruise</a>.
-        Business Owner and President of Alejandro Velez Software Solutions LLC.
+        Business Owner and President of Velez Web Services LLC.
       </p>
       <ul className="actions">
         <li>
