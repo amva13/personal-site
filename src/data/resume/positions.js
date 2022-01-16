@@ -16,6 +16,10 @@ const positions = [
     points: [
       'ML Infrastructure and Data Engineering',
       'Built world-class data infrastructure, data quality management systems, and product analytics tooling. Contributor to an industry-leading ML inference platform',
+      'Redesigned and imlemented new internal timeseries database.',
+      'Designed and led the implementation of a data quality and root cause analysis management platform.',
+      'Built out TensorRT backend for the model serving platform.',
+      'Built experimentation platform tooling for identifying faulty experiments impacting Pinterest app performance and user experience.',
       'Tech Stack: Python, C++, Java, Scala, Golang, AWS S3, AWS ECS, Tensorflow, Tensorflow Serving, TensorRT, ReactJS, Spark, MySQL, ElasticSearch, HBase, Druid, Airflow, VSCode',
     ],
   },

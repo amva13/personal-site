@@ -7,7 +7,7 @@ const Education = ({ data }) => (
   <div className="education">
     <div className="link-to" id="education" />
     <div className="title">
-      <p>Note: See my <a href="https://www.linkedin.com/in/avelez1/"> LinkedIn </a>  for more details.</p>
+      <p>Note: See my <a href="https://www.linkedin.com/in/avelez1/"> LinkedIn </a>  for additional information.</p>
       <h3>Education</h3>
     </div>
     {data.map((degree) => (

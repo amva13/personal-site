@@ -20,13 +20,11 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>
-        Hi, I&apos;m Alejandro. Traveler, Athlete, Improv practitioner,
-        Dog lover, Software Engineer, Business Owner and Entrepreneur. Currently working on self-driving cars at <a href="https://getcruise.com/">Cruise</a>.
-        Business Owner and President of Velez Web Services LLC.
+        Hi, I&apos;m Alejandro. Frequent traveler, Fitness enthusiast, and dog parent. Currently working on self-driving cars at <a href="https://getcruise.com/">Cruise</a>.
       </p>
       <ul className="actions">
         <li>
-          {!window.location.pathname.includes('/resume') ? <Link to="/resume" className="button">Learn More</Link> : <Link to="/about" className="button">About Me</Link>}
+          <Link to="/about" className="button">Learn More</Link>
         </li>
       </ul>
     </section>
