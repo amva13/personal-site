@@ -5,8 +5,7 @@ import Main from '../layouts/Main';
 
 const Index = () => (
   <Main
-    description={"Alejandro Velez's personal website. San Francisco based MIT Computer Science and MIT Sloan graduate, "
-    + 'ex-researcher at MIT CSAIL, Sloan, and AeroAstro ; ex Machine Learning Infrastructure Software Engineer at Pinterest.'}
+    description={"Alejandro Velez's personal website."}
   >
     <article className="post" id="index">
       <header>
@@ -15,7 +14,6 @@ const Index = () => (
           <p>
             A beautiful, responsive, statically-generated,
             react application written with modern Javascript.
-            Powered by AWS and GoDaddy.
           </p>
         </div>
       </header>

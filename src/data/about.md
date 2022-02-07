@@ -1,9 +1,9 @@
 # Intro
 I was born and raised in Mayaguez, Puerto Rico. As a high schooler, I was involved in 5 sports, loved math, and was the president of my senior class. I was a frequent dance participant in our class talent shows.
 
-After high school, I attended M.I.T. where I did undergraduate research in the MIT Space Systems Lab, the Sloan School of Management, and the Computer Science and Artificial Intelligence Laboratory. I had the opportunity to explore a variety of academic interests (switching majors 3 times) and ended up majoring in Computer Science while also receiving a degree from the Sloan School, concentrating in economics, and taking additional significant coursework in math and philosophy. I developed a strong interest in programming and software engineering after numerous data-science-focused internships convinced me the lack of adequate software systems was the main contributor many companies' inability to leverage their data effectively.  
+After high school, I attended M.I.T. where I did undergraduate research in the MIT Space Systems Lab, the Sloan School of Management, and the Computer Science and Artificial Intelligence Laboratory. I had the opportunity to explore a variety of academic interests (switching majors 3 times) and ended up majoring in Computer Science while also receiving a degree from the Sloan School, concentrating in economics, and taking additional significant coursework in math and philosophy.  
 
-I'm interested in travel, entrepreneurship, fitness, and mental health research. I'm a software engineer specializing in machine learning and Data Engineering. I am most interested in ML Platforms and have a keen interest in autonomous vehicles at the moment. They present an opportunity for humanity to achieve the scientific breakthrough of building above-human-level intelligent machines and can achieve significant impact in other areas such green house gas emmission reductions. 
+I'm interested in travel, entrepreneurship, fitness, and mental health research. I've been a software engineer specializing in machine learning and Data Engineering. However, I am transitioning to a career as a scientist and am working on my graduate school plans. I have a strong interest in data science, intelligent machines and applications of NLP, Deep Learning, and others. I'm also particularly interested in the social ramifications of these technological advances. 
 
 # I like
 
@@ -23,7 +23,8 @@ I'm interested in travel, entrepreneurship, fitness, and mental health research.
 - I'm a significantly above average salsa dancer.
 - I say I speak spanish but I can really only speak Puerto Rican.
 - I've traveled to many places but can only locate a handful of them on a map.
-- I started a small business where I dabble in angel investments and app development.
+- I'm a small business owner.
+<!-- - I started a small business where I dabble in angel investments and app development. -->
 <!-- - I started a modeling gig in late 2021 at the age of 27. -->
 
 <!-- # Interesting youth life events

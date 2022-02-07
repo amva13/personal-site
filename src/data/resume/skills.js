@@ -10,7 +10,7 @@ const skills = [
   {
     title: 'C++',
     competency: 5,
-    category: ['ML Infrastructure', 'Languages', 'C++'],
+    category: ['Machine Learning', 'Languages', 'C++'],
   },
   {
     title: 'Java',
@@ -40,7 +40,7 @@ const skills = [
   {
     title: 'Amazon Web Services',
     competency: 4,
-    category: ['Web Development', 'Tools', 'ML Infrastructure', 'AWS'],
+    category: ['Web Development', 'Tools', 'Machine Learning', 'AWS'],
   },
   // {
   //   title: 'Heroku',
@@ -115,7 +115,7 @@ const skills = [
   {
     title: 'Tensorflow / Tensorflow Serving',
     competency: 3,
-    category: ['Data Science', 'Python', 'ML Infrastructure', 'C++'],
+    category: ['Data Science', 'Python', 'Machine Learning', 'C++'],
   },
   {
     title: 'Jupyter',
@@ -205,22 +205,22 @@ const skills = [
   {
     title: 'Docker',
     competency: 5,
-    category: ['Data Engineering', 'ML Infrastructure'],
+    category: ['Data Engineering', 'Machine Learning'],
   },
   {
     title: 'TensorRT',
     competency: 4,
-    category: ['ML Infrastructure', 'C++'],
+    category: ['Machine Learning', 'C++'],
   },
   {
     title: 'Golang',
     competency: 3,
-    category: ['Web Development', 'Backend', 'Languages'],
+    category: ['Web Development', 'Backend', 'Languages', 'Google Cloud'],
   },
   {
     title: 'folly',
     competency: 3,
-    category: ['C++', 'ML Infrastructure'],
+    category: ['C++', 'Machine Learning'],
   },
   {
     title: 'Elasticsearch',
@@ -250,12 +250,12 @@ const skills = [
   {
     title: 'Protobuf',
     competency: 2,
-    category: ['Data Engineering', 'Java', 'ML Infrastructure'],
+    category: ['Data Engineering', 'Java', 'Machine Learning'],
   },
   {
     title: 'Thrift',
     competency: 4,
-    category: ['Data Engineering', 'ML Infrastructure'],
+    category: ['Data Engineering', 'Machine Learning'],
   },
   {
     title: 'AthenaDB',
@@ -291,6 +291,16 @@ const skills = [
     title: 'IAM',
     competency: 2,
     category: ['Tools', 'AWS'],
+  },
+  {
+    title: 'Google Cloud CLI',
+    competency: 2,
+    category: ['Google Cloud'],
+  },
+  {
+    title: 'Google Domains',
+    competency: 2,
+    category: ['Google Cloud'],
   },
   // {
   //   title: 'Mypy',
