@@ -1,26 +1,24 @@
 const positions = [
   {
-    company: 'Cruise',
-    position: 'Sr ML/Robotics Engineer',
-    link: 'https://getcruise.com/',
+    company: 'Interview Kickstart',
+    position: 'Machine Learning Instructor',
+    link: 'https://www.interviewkickstart.com/',
     daterange: '2022',
     points: [
-      'Resigned to pursue career as a scientist.',
+      'Hired to teach machine learning fundamentals to people interested in switching domains.',
     ],
   },
   {
     company: 'Pinterest',
     position: 'ML Data Engineer',
-    link: 'https://medium.com/pinterest-engineering/pinalyticsdb-a-time-series-database-on-top-of-hbase-946f236bb29a',
+    link: 'https://www.pinterest.com/',
     daterange: '2018 - 2021',
     points: [
-      'Machine Learning and Data Engineering',
-      'Built world-class data infrastructure, data quality management systems, and product analytics tooling. Contributor to an industry-leading ML inference platform',
-      'Redesigned and imlemented new internal timeseries database.',
-      'Designed and led the implementation of a data quality and root cause analysis management platform.',
-      'Built out TensorRT backend for the model serving platform.',
-      'Built experimentation platform tooling for identifying faulty experiments impacting Pinterest app performance and user experience.',
-      'Tech Stack: Python, C++, Java, Scala, Golang, AWS S3, AWS ECS, Tensorflow, Tensorflow Serving, TensorRT, ReactJS, Spark, MySQL, ElasticSearch, HBase, Druid, Airflow, VSCode',
+      'Collaborated with Product Managers and Engineering Managers in the Growth team in order to develop experimentation tooling mining online A/B experiments of greatest impact to key product metrics. A 5x reduction in time to resolution of login incidents was realized, totaling over $300K in annual engineering hours.',
+      'Researched an A/B experiment metrics validation framework. Collaborated with Data Scientists in order to implement the framework and protect the experimentation platform from systemic risks. 5 concerning metrics were identified.',
+      'Collaborated with Product Managers, my tech lead, an apprentice engineer, and engineers in order to define metrics quality goals and design and implement a data validation and alerting platform for the company. Additionally, I led the assessing and learning effort after launch by leading user feedback sessions, iterating, and proposing expansions to the existing design. The platform helped save the company close to 2 million dollars in engineering hours.',
+      'Collaborated with infrastructure and machine learning engineers during migration of ads ranking machine learning model to new model training and serving platform.',
+      'Tested ads ranking machine learning model after design changes. Performed model training and executed layer-by-layer validation. Collaborated with ml engineers and my tech lead to define testing strategy.',
     ],
   },
   {

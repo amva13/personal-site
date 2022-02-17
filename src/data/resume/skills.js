@@ -13,6 +13,11 @@ const skills = [
     category: ['Machine Learning', 'Languages', 'C++'],
   },
   {
+    title: 'Python for Data Science: scipy, numpy, tensorflow',
+    competency: 5,
+    category: ['Machine Learning', 'Languages', 'Python', 'Data Science'],
+  },
+  {
     title: 'Java',
     competency: 4,
     category: ['Backend', 'Languages', 'Java'],
@@ -60,7 +65,7 @@ const skills = [
   {
     title: 'MySQL/SQL',
     competency: 3,
-    category: ['Web Development', 'Databases', 'Languages'],
+    category: ['Product Management', 'Web Development', 'Databases', 'Languages'],
   },
   {
     title: 'HBase',
@@ -302,6 +307,41 @@ const skills = [
     competency: 2,
     category: ['Google Cloud'],
   },
+  {
+    title: 'JIRA',
+    competency: 5,
+    category: ['Product Management'],
+  },
+  {
+    title: 'Public Speaking',
+    competency: 5,
+    category: ['Product Management'],
+  },
+  {
+    title: 'Presentation Skills',
+    competency: 5,
+    category: ['Product Management'],
+  },
+  {
+    title: 'Storyboarding',
+    competency: 5,
+    category: ['Product Management', 'Data Science'],
+  },
+  {
+    title: 'Product Lifecycle',
+    competency: 5,
+    category: ['Product Management'],
+  },
+  {
+    title: 'Data Analysis',
+    competency: 5,
+    category: ['Product Management', 'Data Science'],
+  },
+  {
+    title: 'Rapid Prototyping',
+    competency: 5,
+    category: ['Product Management'],
+  },
   // {
   //   title: 'Mypy',
   //   competency: 3,
@@ -333,6 +373,7 @@ const colors = [
   '#09EEE7',
   '#09EE83',
   '#E7EE09',
+  '#59ee09',
 ];
 
 const categories = [

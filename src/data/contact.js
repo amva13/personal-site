@@ -1,5 +1,5 @@
 import { faGithub } from '@fortawesome/free-brands-svg-icons/faGithub';
-// import { faFacebookF } from '@fortawesome/free-brands-svg-icons/faFacebookF';
+import { faFacebookF } from '@fortawesome/free-brands-svg-icons/faFacebookF';
 import { faInstagram } from '@fortawesome/free-brands-svg-icons/faInstagram';
 import { faLinkedinIn } from '@fortawesome/free-brands-svg-icons/faLinkedinIn';
 import { faAngellist } from '@fortawesome/free-brands-svg-icons/faAngellist';
@@ -15,18 +15,18 @@ const data = [
     label: 'Github',
     icon: faGithub,
   },
-  // {
-  //   link: 'https://facebook.com/',
-  //   label: 'Facebook',
-  //   icon: faFacebookF,
-  // },
+  {
+    link: 'https://www.facebook.com/alejandro.velez.311',
+    label: 'Facebook',
+    icon: faFacebookF,
+  },
   {
     link: 'https://www.instagram.com/avelezarce/',
     label: 'Instagram',
     icon: faInstagram,
   },
   {
-    link: 'https://www.linkedin.com/in/avelez1/',
+    link: 'https://www.linkedin.com/in/alexv24/',
     label: 'LinkedIn',
     icon: faLinkedinIn,
   },
@@ -46,7 +46,7 @@ const data = [
     icon: faPinterest,
   },
   {
-    link: 'mailto:alejandro@alejandrovelez.io',
+    link: 'mailto:alex@alexv24.com',
     label: 'Email',
     icon: faEnvelope,
   },

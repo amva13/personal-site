@@ -102,7 +102,7 @@ const courses = [
     university: 'MIT',
   },
   {
-    title: 'Managerial Psychology',
+    title: 'Laboratory in Corporate Finance',
     number: '15.418',
     link: 'http://student.mit.edu/catalog/search.cgi?search=15.418&style=verbatim',
     university: 'MIT',
