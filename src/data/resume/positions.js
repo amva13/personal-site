@@ -10,7 +10,7 @@ const positions = [
   },
   {
     company: 'Pinterest',
-    position: 'ML Data Engineer',
+    position: 'Software Engineer II, Applied ML',
     link: 'https://www.pinterest.com/',
     daterange: '2018 - 2021',
     points: [
