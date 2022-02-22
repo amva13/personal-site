@@ -8,22 +8,12 @@ const Education = ({ data }) => (
     <div className="link-to" id="education" />
     <div className="title">
       <p>
-        I&apos;m a former machine learning and data engineer, with 8 years programming
-        and development experience, who has made the transition to product management.
-        I&apos;m most interested in working with Machine Learning products and have previous
-        experience collaborating with professionals across the spectrum, in early and
-        advanced stages, to lead ML projects and build such products. The solutions I&apos;ve
-        helped build have made companies more customer-obsessed, advanced the state of machine
-        learning at said companies, and saved millions of dollars for these companies.
-      </p>
-      <p>
-        In order to further enhance my skills in product management, I have enrolled
-        in product management training programs by the Northwestern Kellogg School
-        of Management as well as Product School. To further enhance my complementary
-        skills in Data Science and Machine Learning, I have enrolled in the Texas
-        McCombs School of Business&apos;s Data Science and Business Analytics
-        Post Graduate program as well at DeepLearning.ai&apos;s
-        Deep Learning Specialization.
+        I&apos;m most interested in working with Machine Learning and analytics products
+        and have previous experience collaborating with professionals across the
+        spectrum, in early and sdvanced stages, to lead ML and analytics projects
+        and build such products. The solutions I&apos;ve helped build have made
+        companies more customer-obsessed, advanced the state of machine learning
+        at said companies, and saved millions of dollars for these companies.
       </p>
       <p>
         I graduated the Massachusetts Institute of Technology with a Bachelor

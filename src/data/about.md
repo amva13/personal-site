@@ -3,7 +3,7 @@ I was born and raised in Mayaguez, Puerto Rico. As a high schooler, I was involv
 
 After high school, I attended M.I.T. where I did undergraduate research in the MIT Space Systems Lab, the Sloan School of Management, and the Computer Science and Artificial Intelligence Laboratory. I had the opportunity to explore a variety of academic interests (switching majors 3 times) and ended up majoring in Computer Science while also receiving a degree from the Sloan School, concentrating in economics, and taking additional significant coursework in math and philosophy.  
 
-I've been a machine learning and data engineer and have now transitioned into product management, where I'm most interested in AI products. I am enthused about how far we've come and excited about the road ahead as we bridge the gap between human and machine intelligence. 
+I've been a machine learning and data engineer and have now transitioned into product management, where I'm most interested in AI  and analytics products. I am enthused about how far we've come and excited about the road ahead as we bridge the gap between human and machine intelligence. I like applying ML and analytics to solve a diverse array of business and societal problems and have had great success doing so in previous roles.
 
 Outside of work I travel a lot (favorites: Dubai, Singapore, Amsterdam), have a passion for fitness and practicing MMA, and enjoy watching podcasts and lectures through youtube.
 
