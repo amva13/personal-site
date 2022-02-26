@@ -14,9 +14,9 @@ const positions = [
     link: 'https://www.pinterest.com/',
     daterange: '2018 - 2021',
     points: [
-      'Collaborated with Product Managers and Engineering Managers in the Growth team in order to develop experimentation tooling mining online A/B experiments of greatest impact to key product metrics. A 5x reduction in time to resolution of login incidents was realized, totaling over $300K in annual engineering hours.',
+      'Collaborated with Product Managers and Engineering Managers in the Growth team in order to develop experimentation tooling mining online A/B experiments of greatest impact to key product metrics. A 5x reduction in time to resolution of login incidents was realized.',
       'Researched an A/B experiment metrics validation framework. Collaborated with Data Scientists in order to implement the framework and protect the experimentation platform from systemic risks. 5 concerning metrics were identified.',
-      'Collaborated with Product Managers, my tech lead, an apprentice engineer, and engineers in order to define metrics quality goals and design and implement a data validation and alerting platform for the company. Additionally, I led the assessing and learning effort after launch by leading user feedback sessions, iterating, and proposing expansions to the existing design. The platform helped save the company close to 2 million dollars in engineering hours.',
+      'Collaborated with Product Managers, my tech lead, an apprentice engineer, and engineers in order to define metrics quality goals and design and implement a data validation and alerting platform for the company. Additionally, I led the assessing and learning effort after launch by leading user feedback sessions, iterating, and proposing expansions to the existing design.',
       'Collaborated with infrastructure and machine learning engineers during migration of ads ranking machine learning model to new model training and serving platform.',
       'Tested ads ranking machine learning model after design changes. Performed model training and executed layer-by-layer validation. Collaborated with ml engineers and my tech lead to define testing strategy.',
     ],
