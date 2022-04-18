@@ -9,6 +9,15 @@ const positions = [
     ],
   },
   {
+    company: 'Velez Software Organization',
+    position: 'Founder, Owner, President',
+    // link: 'https://www.interviewkickstart.com/',
+    daterange: '2021 - 2022',
+    points: [
+      'I provide exceptional product development and web3/ML/Data technology consulting services to startups.',
+    ],
+  },
+  {
     company: 'Pinterest',
     position: 'Software Engineer II',
     link: 'https://www.pinterest.com/',

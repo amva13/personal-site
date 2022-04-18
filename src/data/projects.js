@@ -1,6 +1,51 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'GreenCard by MasterCard (in-progress)',
+    subtitle: 'Empowering our customers to invest in the causes they care about through their MasterCard purchases',
+    link: 'shorturl.at/dlqzT',
+    date: 'April 2022',
+    image: '/images/projects/kellogg.png',
+    desc:
+      'As my Kellogg Capstone, I ideated and executed the full Product loop for a revolutionary new credit card empowering values-based consumers and their purchases.',
+  },
+  {
+    title: 'Rebolt (in-progress)',
+    subtitle: 'Know the Diversity of a Company',
+    link: 'https://rebolt.co/',
+    date: 'April 2022',
+    image: '/images/projects/rebolt.png',
+    desc:
+      'One of the exciting Web 3.0 startups I am consulting and collaborating on! It was originally intended as a B2C solution to empower values-based job seekers prioritizing diversity in the workplace. It has since pivoted.',
+  },
+  {
+    title: 'Stay-N-Sleep Loyalty Program',
+    subtitle: 'Product School Capstone',
+    link: 'shorturl.at/jotuU',
+    date: 'April 2022',
+    image: '/images/projects/stay-n-sleep.png',
+    desc:
+      'As my Product School capstone, I worked with a team to develop a loyalty program for an online lodging service.',
+  },
+  {
+    title: 'Solutions for Youth Employment',
+    subtitle: 'Private Sector Engagement Strategy',
+    link: 'shorturl.at/sLU06',
+    date: 'July 2017',
+    image: '/images/projects/s4ye.png',
+    desc:
+      'I worked with World Bank management consultants to develop a private sector engagement strategy for a global initiative solving youth employment problems in the developing world.',
+  },
+  {
+    title: 'Impact Portfolio Report',
+    subtitle: 'Individual Descriptions of the 19 Impact Portfolio Projects',
+    link: 'https://www.s4ye.org/sites/default/files/2017-11/Impact%20Portfolio%20Report.pdf',
+    date: 'July 2017',
+    image: '/images/projects/s4yereport.png',
+    desc:
+      'I worked with World Bank economists, management consultants and the S4YE initiative director to publish the S4YE Impact Portfolio Report. I was directly responsible for the analysis and individual descriptions of the 19 initiatives. This analysis was used throughout the report.',
+  },
+  {
     title: 'Generalized Phrase Structure Grammar proposal',
     subtitle: 'A convolutional neural network to classify cats! (and dogs)',
     link: 'https://github.com/amva13/artiste-final-project',
