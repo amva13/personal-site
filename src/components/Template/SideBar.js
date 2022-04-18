@@ -20,8 +20,10 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>
-        Hi, I&apos;m Alex. Frequent traveler, fitness enthusiast, and dog parent.
-        I&apos;m a product manager in machine learning. Click below to learn more !
+        Hi, I&apos;m Alex. I&apos;m a product manager working on exciting Web 3.0
+        projects. Outside of work he enjoys many latin dances, international
+        traveling, exploring new cuisines, obstacle racing, athletics, and
+        podcasts through spotify and youtube. Click below to learn more !
       </p>
       <ul className="actions">
         <li>

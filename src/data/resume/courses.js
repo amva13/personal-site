@@ -41,18 +41,18 @@ const courses = [
     link: 'https://courses.csail.mit.edu/6.034/',
     university: 'MIT',
   },
-  {
-    title: 'Computation Structures',
-    number: '6.004',
-    link: 'https://courses.csail.mit.edu/6.004/',
-    university: 'MIT',
-  },
-  {
-    title: 'Discrete Mathematics',
-    number: '6.042',
-    link: 'https://courses.csail.mit.edu/6.042/',
-    university: 'MIT',
-  },
+  // {
+  //   title: 'Computation Structures',
+  //   number: '6.004',
+  //   link: 'https://courses.csail.mit.edu/6.004/',
+  //   university: 'MIT',
+  // },
+  // {
+  //   title: 'Discrete Mathematics',
+  //   number: '6.042',
+  //   link: 'https://courses.csail.mit.edu/6.042/',
+  //   university: 'MIT',
+  // },
   {
     title: 'Oral Communication',
     number: '6.UAT',
@@ -71,12 +71,12 @@ const courses = [
     link: 'https://math.mit.edu/~apm/18100A.html',
     university: 'MIT',
   },
-  {
-    title: 'Linear Algebra',
-    number: '18.06',
-    link: 'https://mitmath.github.io/1806/',
-    university: 'MIT',
-  },
+  // {
+  //   title: 'Linear Algebra',
+  //   number: '18.06',
+  //   link: 'https://mitmath.github.io/1806/',
+  //   university: 'MIT',
+  // },
   {
     title: 'Statistics',
     number: '15.075',
@@ -107,12 +107,12 @@ const courses = [
     link: 'http://student.mit.edu/catalog/search.cgi?search=15.418&style=verbatim',
     university: 'MIT',
   },
-  {
-    title: 'Data Technologies for Quant Finance',
-    number: '15.496',
-    link: 'https://lfe.mit.edu/education/',
-    university: 'MIT',
-  },
+  // {
+  //   title: 'Data Technologies for Quant Finance',
+  //   number: '15.496',
+  //   link: 'https://lfe.mit.edu/education/',
+  //   university: 'MIT',
+  // },
   {
     title: 'Accounting',
     number: '15.501',
@@ -154,6 +154,36 @@ const courses = [
     number: '21M.605',
     link: 'https://www.coursicle.com/mit/courses/21M/605/',
     university: 'MIT',
+  },
+  {
+    title: 'Product Manager Certificate',
+    number: 'Product School',
+    link: 'https://www.productschool.com/product-manager-certification',
+    university: 'Product School',
+  },
+  {
+    title: 'Intro to Ethereum Developer Course',
+    number: 'ETH101',
+    link: 'https://courses.blockgeeks.com/course/eth-101-ethereum-developer-course/',
+    university: 'Blockgeeks',
+  },
+  {
+    title: 'Intro to CryptoEconomics',
+    number: 'CE101',
+    link: 'https://courses.blockgeeks.com/course/ce101-intro-to-cryptoeconomics/',
+    university: 'Blockgeeks',
+  },
+  {
+    title: 'Intro to Building dApps',
+    number: 'ETH102',
+    link: 'https://courses.blockgeeks.com/course/eth102-intro-to-building-dapps/',
+    university: 'Blockgeeks',
+  },
+  {
+    title: 'Intro to Javascript',
+    number: 'Workshop',
+    link: 'https://courses.blockgeeks.com/course/workshop-seriesjavascript-primer/',
+    university: 'Blockgeeks',
   },
 ];
 
