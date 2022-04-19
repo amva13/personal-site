@@ -687,6 +687,26 @@ const skills = [
     competency: 2,
     category: ['Web3'],
   },
+  {
+    title: 'Kanban',
+    competency: 5,
+    category: ['Product Management', 'Project Management'],
+  },
+  {
+    title: 'Scrum',
+    competency: 5,
+    category: ['Product Management', 'Project Management'],
+  },
+  {
+    title: 'Extreme Programming (XP)',
+    competency: 5,
+    category: ['Product Management', 'Project Management'],
+  },
+  {
+    title: 'SAFe',
+    competency: 5,
+    category: ['Product Management', 'Project Management'],
+  },
   // {
   //   title: 'Mypy',
   //   competency: 3,
