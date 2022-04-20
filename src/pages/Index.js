@@ -12,7 +12,7 @@ const Index = () => (
         <div className="title">
           <h2 data-testid="heading"><Link to="/">About this site</Link></h2>
           <p>
-            A really awesome website.
+            A really awesome statically-generated decentralized react application hosted on IPFS.
           </p>
         </div>
       </header>
