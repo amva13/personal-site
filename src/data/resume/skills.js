@@ -707,6 +707,21 @@ const skills = [
     competency: 5,
     category: ['Product Management', 'Project Management'],
   },
+  {
+    title: 'Fleek',
+    competency: 5,
+    category: ['Web3', 'Infra'],
+  },
+  {
+    title: 'IPFS',
+    competency: 3,
+    category: ['Web3', 'Infra', 'Web Development'],
+  },
+  {
+    title: 'Ethereum Name Service',
+    competency: 4,
+    category: ['Web3', 'Infra', 'Web Development'],
+  },
   // {
   //   title: 'Mypy',
   //   competency: 3,

@@ -26,6 +26,7 @@ Outside of work he enjoys many latin dances, international traveling, exploring 
 - I say I speak spanish but I can really only speak Puerto Rican.
 - I've traveled to many places but can only locate a handful of them on a map.
 - I'm an entrepreneur and small business owner.
+- Survivor is my favorite show, and undebatably the greatest show of all time.
 <!-- - I started a small business where I dabble in angel investments and app development. -->
 <!-- - I started a modeling gig in late 2021 at the age of 27. -->
 
