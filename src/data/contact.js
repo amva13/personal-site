@@ -3,10 +3,11 @@ import { faGithub } from '@fortawesome/free-brands-svg-icons/faGithub';
 // import { faInstagram } from '@fortawesome/free-brands-svg-icons/faInstagram';
 import { faLinkedinIn } from '@fortawesome/free-brands-svg-icons/faLinkedinIn';
 import { faAngellist } from '@fortawesome/free-brands-svg-icons/faAngellist';
-// import { faTwitter } from '@fortawesome/free-brands-svg-icons/faTwitter';
+import { faTwitter } from '@fortawesome/free-brands-svg-icons/faTwitter';
 import { faEnvelope } from '@fortawesome/free-regular-svg-icons/faEnvelope';
 import { faPinterest } from '@fortawesome/free-brands-svg-icons/faPinterest';
 import { faMonero } from '@fortawesome/free-brands-svg-icons/faMonero';
+import { faEthereum } from '@fortawesome/free-brands-svg-icons/faEthereum';
 // See https://fontawesome.com/icons?d=gallery&s=brands,regular&m=free
 // to add other icons.
 
@@ -26,11 +27,11 @@ const data = [
     label: 'Angel List',
     icon: faAngellist,
   },
-  // {
-  //   link: 'https://twitter.com/',
-  //   label: 'Twitter',
-  //   icon: faTwitter,
-  // },
+  {
+    link: 'https://twitter.com/pikachubots',
+    label: 'Twitter',
+    icon: faTwitter,
+  },
   {
     link: 'https://www.pinterest.com/avelezarce/',
     label: 'Pinterest',
@@ -45,6 +46,11 @@ const data = [
     link: 'https://algonameservice.com/search/alexv',
     label: 'Algorand',
     icon: faMonero,
+  },
+  {
+    link: 'https://app.ens.domains/name/alexv24.eth/details',
+    label: 'Ethereum',
+    icon: faEthereum,
   },
 ];
 

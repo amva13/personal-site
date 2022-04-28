@@ -20,7 +20,8 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>
-        Hi, I&apos;m Alex. I&apos;m a product manager working on exciting Web 3.0
+        Hi, I&apos;m Alex. Currently CEO of Apliko.io. I&apos;m a product
+        manager working on exciting Web 3.0
         projects. Outside of work I enjoy many latin dances, international
         traveling, exploring new cuisines, obstacle racing, athletics, and
         podcasts through spotify and youtube. Click below to learn more !
