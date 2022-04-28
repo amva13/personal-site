@@ -1,11 +1,11 @@
 const positions = [
   {
-    company: 'Stealth Web 3.0 Startup',
-    position: 'Lead Product Manager',
+    company: 'Apliko.io',
+    position: 'Chief Executive Officer',
     // link: 'https://www.interviewkickstart.com/',
     daterange: '2020 - 2022',
     points: [
-      'Founding Product Manager for team building something new in Web 3.0',
+      'CEO, co-founder: Apliko is dynamism creating equity of access for all.',
     ],
   },
   {

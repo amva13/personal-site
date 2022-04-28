@@ -19,13 +19,13 @@ const data = [
       'As my Kellogg Capstone, I ideated and executed the full Product loop for a revolutionary new credit card empowering values-based consumers and their purchases.',
   },
   {
-    title: 'Rebolt (in-progress)',
+    title: 'Rebolt',
     subtitle: 'Know the Diversity of a Company',
     link: 'https://rebolt.co/',
     date: 'April 2022',
     image: '/images/projects/rebolt.png',
     desc:
-      'One of the exciting Web 3.0 startups I am consulting and collaborating on! It was originally intended as a B2C solution to empower values-based job seekers prioritizing diversity in the workplace. It has since pivoted.',
+      'One of the exciting Web 3.0 startups I am consulting and collaborating on! Rebolt aims to build systems for all workers to be empowered to be the best version of themselves in the workplace',
   },
   {
     title: 'Stay-N-Sleep Loyalty Program',
