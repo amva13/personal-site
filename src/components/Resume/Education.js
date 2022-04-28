@@ -8,9 +8,8 @@ const Education = ({ data }) => (
     <div className="link-to" id="education" />
     <div className="blurb">
       <p text-align="left">
-        Alex is a former software engineer, with 8 years programming and product
-        development experience, who has made the transition to product
-        management. His experience has included product management, management
+        Alex is an entrepreneur, product manager, and engineer.
+        His experience has included product management, management
         consulting, data science, data engineering, equities options trading,
         and software engineering. Outside of work he enjoys many latin dances,
         international traveling, exploring new cuisines, obstacle racing,

@@ -1,6 +1,15 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'Apliko.io',
+    subtitle: 'the first tokenomics-driven jobs-matching platform leveraging state-of-the-art Machine Learning in Web 3.0.',
+    link: 'http://apliko.io',
+    date: 'April 2022',
+    image: '/images/projects/apliko-emblem-word.png',
+    desc:
+      'CEO, co-founder: Apliko is dynamism creating equity of access for all',
+  },
+  {
     title: 'GreenCard by MasterCard (in-progress)',
     subtitle: 'Empowering our customers to invest in the causes they care about through their MasterCard purchases',
     link: 'shorturl.at/dlqzT',
