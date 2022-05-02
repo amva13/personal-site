@@ -6,16 +6,7 @@ import Degree from './Education/Degree';
 const Education = ({ data }) => (
   <div className="education">
     <div className="link-to" id="education" />
-    <div className="blurb">
-      <p text-align="left">
-        Alex is an entrepreneur, product manager, and engineer.
-        His experience has included product management, management
-        consulting, data science, data engineering, equities options trading,
-        and software engineering. Outside of work he enjoys many latin dances,
-        international traveling, exploring new cuisines, obstacle racing,
-        athletics, and podcasts and lectures through spotify and youtube.
-      </p>
-      <p>Note: See my <a href="https://www.linkedin.com/in/alexv24/"> LinkedIn </a>  for additional information.</p>
+    <div className="title">
       <h3>Education</h3>
     </div>
     {data.map((degree) => (

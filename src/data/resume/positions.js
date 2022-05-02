@@ -1,20 +1,28 @@
 const positions = [
+  // {
+  //   company: 'Apliko.io',
+  //   position: 'Chief Executive Officer',
+  //   // link: 'https://www.interviewkickstart.com/',
+  //   daterange: '2020 - 2022',
+  //   points: [
+  //     'CEO, co-founder: Apliko is dynamism creating equity of access for all.',
+  //   ],
+  // },
   {
-    company: 'Apliko.io',
-    position: 'Chief Executive Officer',
-    // link: 'https://www.interviewkickstart.com/',
-    daterange: '2020 - 2022',
+    company: 'Personal goal pursuit - Career Break',
+    position: 'I was many things',
+    link: 'https://www.hrmonline.com.au/diversity-and-inclusion/career-break-stigmatised/',
+    daterange: '2021 - 2022',
     points: [
-      'CEO, co-founder: Apliko is dynamism creating equity of access for all.',
+      "worked at a startup, took a few offers I decided weren't right, worked with a few founders, traveled a lot, did a lot of side projects, mental health break (bipolar), a lot of reflection, learned about product management and worked with a few founders as product management consultant, started work on Apliko.io",
     ],
   },
   {
-    company: 'Velez Software Organization',
-    position: 'Founder, Owner, President',
-    // link: 'https://www.interviewkickstart.com/',
-    daterange: '2021 - 2022',
+    company: 'Cruise',
+    position: 'Senior Software Engineer',
+    link: 'https://www.getcruise.com/',
+    daterange: '2022',
     points: [
-      'I provide exceptional product development and web3/ML/Data technology consulting services to startups.',
     ],
   },
   {
@@ -23,7 +31,6 @@ const positions = [
     link: 'https://www.pinterest.com/',
     daterange: '2018 - 2021',
     points: [
-      'Worked on ML and Data projects impacting the user experience of millions of Pinterest users',
     ],
   },
 ];

@@ -16,8 +16,8 @@ import { skills, categories } from '../data/resume/skills';
 import courses from '../data/resume/courses';
 
 const sections = [
-  'Education',
   'Experience',
+  'Education',
   'Skills',
   'Courses',
   'References',
@@ -48,8 +48,8 @@ const Resume = () => (
       <Skills skills={skills} categories={categories} />
       <Courses data={courses} />
       <References /> */}
-      <Education data={degrees} />
       <Experience data={positions} />
+      <Education data={degrees} />
       <Skills skills={skills} categories={categories} />
       <Courses data={courses} />
       <References />
