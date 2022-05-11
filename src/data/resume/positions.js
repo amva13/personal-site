@@ -14,7 +14,7 @@ const positions = [
     link: 'https://www.hrmonline.com.au/diversity-and-inclusion/career-break-stigmatised/',
     daterange: '2021 - 2022',
     points: [
-      "worked at a startup, took a few offers I decided weren't right, worked with a few founders, traveled a lot, did a lot of side projects, mental health break (bipolar), a lot of reflection, learned about product management and worked with a few founders as product management consultant, started work on Apliko.io",
+      "worked at a startup, took a few offers I decided weren't right, traveled a lot, did a lot of side projects, mental health break (bipolar), a lot of reflection, learned about product management and worked with a founder to consult on product management consultant, started work on Apliko.io",
     ],
   },
   {
@@ -22,6 +22,14 @@ const positions = [
     position: 'Senior Software Engineer',
     link: 'https://www.getcruise.com/',
     daterange: '2022',
+    points: [
+    ],
+  },
+  {
+    company: 'Transform Data',
+    position: 'Forward Deployed Software Engineer',
+    link: 'https://transform.co/',
+    daterange: '2021',
     points: [
     ],
   },
