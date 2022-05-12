@@ -9,6 +9,7 @@ import { faEnvelope } from '@fortawesome/free-regular-svg-icons/faEnvelope';
 import { faMonero } from '@fortawesome/free-brands-svg-icons/faMonero';
 import { faEthereum } from '@fortawesome/free-brands-svg-icons/faEthereum';
 import { faBitcoin } from '@fortawesome/free-brands-svg-icons/faBitcoin';
+import { faHackerNews } from '@fortawesome/free-brands-svg-icons/faHackerNews';
 // See https://fontawesome.com/icons?d=gallery&s=brands,regular&m=free
 // to add other icons.
 
@@ -57,6 +58,11 @@ const data = [
     link: 'https://naming.bonfida.org/#/domain/alexv',
     label: 'Solana',
     icon: faBitcoin,
+  },
+  {
+    link: 'https://www.crunchbase.com/person/alejandro-velez-891c',
+    label: 'Crunchbase',
+    icon: faHackerNews,
   },
 ];
 
