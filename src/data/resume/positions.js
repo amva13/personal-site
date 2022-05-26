@@ -9,12 +9,12 @@ const positions = [
   //   ],
   // },
   {
-    company: 'Personal goal pursuit - Career Break',
-    position: 'I was many things',
-    link: 'https://www.hrmonline.com.au/diversity-and-inclusion/career-break-stigmatised/',
-    daterange: '2021 - 2022',
+    company: 'Apliko',
+    position: 'Co-founder, CEO',
+    link: 'https://apliko.io/',
+    daterange: '2022',
     points: [
-      "worked at a startup, took a few offers I decided weren't right, traveled a lot, did a lot of side projects, mental health break (bipolar), a lot of reflection, learned about product management and worked with a founder to consult on product management consultant, started work on Apliko.io",
+      "We're building the soon-to-be greatest decentralized talent platform. It's a positive-sum, accessible, and robust hiring and networking platform using state-of-the-art tokenomics.",
     ],
   },
   {
@@ -26,7 +26,7 @@ const positions = [
     ],
   },
   {
-    company: 'Transform Data',
+    company: 'Startup',
     position: 'Forward Deployed Software Engineer',
     link: 'https://transform.co/',
     daterange: '2021',

@@ -5,7 +5,7 @@ const References = () => (
   <div className="references">
     <div className="link-to" id="references" />
     <div className="title">
-      <h3>References are available</h3>
+      <h3>References are available on <a href="https://www.linkedin.com/in/alexv24/"> LinkedIn profile</a></h3>
     </div>
   </div>
 );
